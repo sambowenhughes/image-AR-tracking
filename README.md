@@ -14,20 +14,6 @@ What things you need to get started:
 XCode 10.2.1
 ```
 
-### Installing
-
-```
-Open up the 
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
 Application currently has no tests.
